@@ -23,3 +23,11 @@
 ## REPL
 - Read, Evalute, Print, Loop.
 
+## Control Flow
+Order in which lines of code are executed in a program.
+
+### Sequential control flow
+execution of code statements one after another. In the order they appear in the program.
+
+### conditional control flow / control flow
+Execution 
